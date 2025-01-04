@@ -17,7 +17,7 @@ I value deep engagement with craft, going beyond the "good enough" approach. Exa
 
 ## Research projects
 
-Take a look [in my CV](https://github.com/user-attachments/files/17869438/wybitul_cv_zhijing.pdf) for an up-to-date list of research projects and publications.
+Take a look [in my CV](https://github.com/user-attachments/files/18307504/wybitul_cv_zhijing.pdf) for an up-to-date list of research projects and publications.
 
 ## Non-research things I'm working on
 
