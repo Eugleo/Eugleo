@@ -1,6 +1,6 @@
 # Hey, I'm Evžen 
 
-While my personal website is being rebuilt, I'm using this as a substitute. To reduce duplication, all the technical work is [in my CV], while this lists some of the more personal things about me.
+While my personal website is being rebuilt, I'm using this as a substitute. To reduce duplication, all the technical work is [in my CV](cv.pdf), while this lists some of the more personal things about me.
 
 ## Personal values
 
@@ -17,7 +17,7 @@ I value deep engagement with craft, going beyond the "good enough" approach. Exa
 
 ## Research projects
 
-Take a look [in my CV](https://github.com/user-attachments/files/19942354/cv.pdf)
+Take a look [in my CV](cv.pdf)
  for an up-to-date list of research projects and publications.
 
 ## Non-research things I'm working on
